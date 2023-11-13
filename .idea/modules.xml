@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bukkit-survival/bukkit-survival.iml" filepath="$PROJECT_DIR$/bukkit-survival/bukkit-survival.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bukkit-survival-project.iml" filepath="$PROJECT_DIR$/bukkit-survival-project.iml" />
+    </modules>
+  </component>
+</project>
